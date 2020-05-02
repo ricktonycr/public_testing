@@ -1,0 +1,11 @@
+state: enabled
+email: cruz.rojas.ra@gmail.com
+fullname: 'Richard Cruz'
+title: Administrador
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$30Ye.Vg9v0nfhD5xymXm/O0.q6aI/m8SmOr4ien2lCCEf/UXZM.hS
